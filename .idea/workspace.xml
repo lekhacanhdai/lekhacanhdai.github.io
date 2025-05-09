@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aaffb6ff-3813-4768-ae91-7622bc1d02ab" name="Changes" comment="update">
+    <list default="true" id="aaffb6ff-3813-4768-ae91-7622bc1d02ab" name="Changes" comment="Update with real information">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/cover-image.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/hero-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/my-profile-img.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,9 +23,6 @@
     &quot;assignee&quot;: &quot;lekhacanhdai&quot;
   }
 }</component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="49f1aa28-43ae-4e4e-aad9-7dc47385edda" />
-  </component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;git@github.com:lekhacanhdai/lekhacanhdai.github.io.git&quot;,
@@ -101,7 +95,7 @@
       <updated>1746631334473</updated>
       <workItem from="1746631335508" duration="3299000" />
       <workItem from="1746805740224" duration="132000" />
-      <workItem from="1746805951151" duration="3082000" />
+      <workItem from="1746805951151" duration="3368000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -127,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746633334851</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update with real information">
+      <option name="closed" value="true" />
+      <created>1746809069640</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1746809069640</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +138,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="Update with real information" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update with real information" />
   </component>
 </project>
