@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aaffb6ff-3813-4768-ae91-7622bc1d02ab" name="Changes" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/cover-image.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/hero-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/my-profile-img.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/service-details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/starter-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/starter-page.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +35,9 @@
     &quot;accountId&quot;: &quot;49f1aa28-43ae-4e4e-aad9-7dc47385edda&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/portfolio-details.html" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -51,7 +56,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;disable.download.node.interpreter.editor.notification&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/dai-le-mesonner/Project/my-profile/assets/img&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/daile/project/lekhacanhdai.github.io/assets/img&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -82,7 +87,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-WS-243.21565.180" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.18034.50" />
       </set>
     </attachedChunks>
   </component>
@@ -95,6 +100,8 @@
       <option name="presentableId" value="Default" />
       <updated>1746631334473</updated>
       <workItem from="1746631335508" duration="3299000" />
+      <workItem from="1746805740224" duration="132000" />
+      <workItem from="1746805951151" duration="3082000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
